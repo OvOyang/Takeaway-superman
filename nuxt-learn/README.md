@@ -1,5 +1,5 @@
 # nuxt-learn
-
+这是一个nuxt项目
 > My fantastic Nuxt.js project
 
 ## Build Setup
