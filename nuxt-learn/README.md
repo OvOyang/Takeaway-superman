@@ -1,5 +1,7 @@
 # nuxt-learn
-这是一个nuxt项目
+
+创建于2019.2.16
+
 > My fantastic Nuxt.js project
 
 ## Build Setup
